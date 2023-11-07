@@ -1,0 +1,1 @@
+﻿Ce pakage sert principalement a calculer le temps d'execution entre deux bout de code
