@@ -8,6 +8,8 @@
     <Company>Victoire Mupikano</Company>
     <Description>Package pour le calcul de temps entre deux bout de code executer</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/victoiremupikano/first.test.package.nuget.git</RepositoryUrl>
+    <PackageTags>stopwatch, victoirempkn, </PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
